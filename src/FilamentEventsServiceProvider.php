@@ -146,7 +146,7 @@ class FilamentEventsServiceProvider extends PackageServiceProvider
     protected function getMigrations(): array
     {
         return [
-            'create_filament-events_table',
+            'create_events_table',
         ];
     }
 }
