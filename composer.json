@@ -9,7 +9,8 @@
   "autoload": {
     "psr-4": {
       "Munio\\FilamentEvents\\": "src/",
-      "Munio\\FilamentEvents\\Database\\Factories\\": "database/factories/"
+      "Munio\\FilamentEvents\\Database\\Factories\\": "database/factories/",
+      "Munio\\FilamentEvents\\Database\\Migrations\\": "database/migrations/"
     }
   },
   "autoload-dev": {
